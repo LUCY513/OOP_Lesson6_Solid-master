@@ -10,9 +10,5 @@ public abstract class User {
         return name;
     }
 
-    /*public void report() {
-        System.out.println("Report for user: " + name);
-    }
-*/
 
 }
